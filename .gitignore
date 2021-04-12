@@ -46,3 +46,7 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# Custom ignore patterns
+# Anything that is prefixed with '~' will be ignored.
+~*
